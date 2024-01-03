@@ -1,7 +1,6 @@
 # Drum-Player
 
-Its command line interface application shows the basic functionality of the login and registration authentication.
-It can store data using file handling.
+Its web page to play drums virtually by using a keyboard and by clicking.
 
 ## Tech Stack
 

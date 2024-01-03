@@ -1,7 +1,14 @@
 # Drum-Player
 
-Hey there, 
+Its command line interface application shows the basic functionality of the login and registration authentication.
+It can store data using file handling.
 
-I have created simple Drum player using HTML, CSS and Js
+## Tech Stack
 
-We can play it using keyboard and by clicking also.
+- HTML, CSS
+- Javascript
+
+
+## Live link
+
+https://ashokkhandhar.github.io/Drum-Player/
